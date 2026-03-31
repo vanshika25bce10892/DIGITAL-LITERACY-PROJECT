@@ -4,11 +4,17 @@ In this project I learned how my digital presence is important and influences my
 ## Student Details
 
 Name: Vanshika Sharma
+
 Registration Number: 25BCE10892
+
 Branch: B.Tech CSE (Core)
+
 Year: First Year
+
 Course Code: CSE0001
+
 Course Title: Digital Literacy
+
 University: VIT Bhopal University
 
 ## Project Overview
