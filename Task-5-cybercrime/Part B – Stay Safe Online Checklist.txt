@@ -1,0 +1,14 @@
+Part B – Stay Safe Online Checklist
+
+Stay Safe Online – Cyber Safety Checklist for College Students:
+
+1.	Never share your UPI PIN, OTP or bank details with anyone even if they claim to be from your bank.
+2.	Remember that receiving money never require entering your UPI PIN. Entering PIN always means you are sending money.
+3.	Avoid clicking on unknown links in SMS, emails, or WhatsApp messages.
+4.	Only download apps from official app store like Google Play or Apple App Store.
+5.	Enable two-factor authentication on important accounts such as email and banking apps.
+6.	Do not connect to public Wi-Fi networks when making financial transactions.
+7.	Check the UPI payment request details carefully before approving any transaction.
+8.	Regularly update your phone software and app to stay protected from security vulnerabilities.
+9.	If you suspect fraud, immediately report it to the National Cyber Crime Portal: https://cybercrime.gov.in.
+10.	You can also call the Cyber Crime Helpline: 1930 to quickly report financial fraud.
